@@ -34,6 +34,14 @@ contains 10683 rows where each row represents a data consisting of following fea
 * Model Training
 * Hyperparameter tuning
 * Performance measure
+
+# Best results
+* By RandomizedSearchCV
+* R2 Score for Random Forest Regressor model with hyper-parameters(For Training Data):-  0.9785878382642988
+* R2 Score for Random Forest Regressor model with hyper-parameters(For Testing Data):-  0.9096612819417819
+* Mean absolute error for Random Forest Regressor model with hyper-parameters :-  716.6492359147827
+* Mean squared error for Random Forest Regressor model with hyper-parameters :-  1917536.538631515
+* Root mean squared error for Random Forest Regressor model with hyper-parameters :-  1384.7514356849445
 # Project Report
 [Report]([https://drive.google.com/file/d/1TljUY_vpwSKDu6bNkhEeGyA_FqXMM1mW/view?usp=sharing](https://drive.google.com/file/d/1B_KS21t_PdQIIjKaByRIakDZmHjOOtFQ/view?usp=sharing))
 
